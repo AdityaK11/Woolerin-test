@@ -13,6 +13,7 @@ Clone the repo and open in Android Studio.
 
 ## Screenshot
 
+![alt text](https://raw.githubusercontent.com/AdityaK11/Woolerin-test/master/screenshot.jpeg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
